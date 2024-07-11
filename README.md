@@ -25,6 +25,7 @@
 
 ## Projects
 - [SQL Injection Patterns](https://github.com/Feralthedogg/SQL-Injection-Patterns)
+- [Tensor Calculator](https://github.com/Feralthedogg/Tensor-Calculator)
 
 ## Contact
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rw70578@gmail.com)
