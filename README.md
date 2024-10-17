@@ -26,6 +26,7 @@
 ## Projects
 - [SQL Injection Patterns](https://github.com/Feralthedogg/SQL-Injection-Patterns)
 - [Tensor Calculator](https://github.com/Feralthedogg/Tensor-Calculator)
+- [Korean Detector](https://github.com/Feralthedogg/Korean-Detector)
 
 ## Contact
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rw70578@gmail.com)
