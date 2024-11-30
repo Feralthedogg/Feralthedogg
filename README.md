@@ -30,6 +30,7 @@
 - [Tensor Calculator](https://github.com/Feralthedogg/Tensor-Calculator)
 - [Korean Detector](https://github.com/Feralthedogg/Korean-Detector)
 - [TreeSubWrapper](https://github.com/Feralthedogg/TreeSubWrapper/)
+- [Prometheus-GIN](https://github.com/Feralthedogg/Prometheus-GIN)
 
 ## Contact
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rw70578@gmail.com)
