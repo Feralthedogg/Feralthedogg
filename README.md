@@ -36,6 +36,7 @@
 - [Prometheus-GIN](https://github.com/Feralthedogg/Prometheus-GIN)
 - [EasyProtoBase64](https://github.com/Feralthedogg/EasyProtoBase64)
 - [isThisGay](https://github.com/Feralthedogg/isThisGay-)
+- [isThisGay-ML](https://github.com/Feralthedogg/IsThisGay-ML)
 
 ## Contact
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rw70578@gmail.com)
