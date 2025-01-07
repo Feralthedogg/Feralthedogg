@@ -24,6 +24,9 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Actix](https://img.shields.io/badge/-Actix-333333?style=flat-square&logo=actix&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-000000?style=flat-square&logo=gin&logoColor=white)
 
 ## Container
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
