@@ -9,7 +9,7 @@
 ![x86-64 NASM Assembly](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
