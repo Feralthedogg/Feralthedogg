@@ -46,6 +46,7 @@
 - [Korcen-API](https://github.com/fluffy-melli/korcen-api)
 - [PatternMatch](https://github.com/Feralthedogg/PatternMatch-go)
 - [Murmur3-C](https://github.com/Feralthedogg/murmur3)
+- [hurricane](https://github.com/Feralthedogg/hurricane)
 
 ## Contact
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rw70578@gmail.com)
