@@ -3,7 +3,9 @@
 
 <p align="center">
 ## Skills
-<br>
+
+<p align="center">
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
