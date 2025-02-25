@@ -42,7 +42,6 @@
 
 ## Projects
 - [SQL Injection Patterns](https://github.com/Feralthedogg/SQL-Injection-Patterns)
-- [Tensor Calculator](https://github.com/Feralthedogg/Tensor-Calculator)
 - [Korean Detector](https://github.com/Feralthedogg/Korean-Detector)
 - [TreeSubWrapper](https://github.com/Feralthedogg/TreeSubWrapper/)
 - [Prometheus-GIN](https://github.com/Feralthedogg/Prometheus-GIN)
