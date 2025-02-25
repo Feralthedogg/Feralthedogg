@@ -2,6 +2,11 @@
 <br>
 <p align="center">
 
+### Low-Level & Optimization
+![x86-64 NASM Assembly](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
+![x87 FPU Assembly](https://img.shields.io/badge/x87%20FPU-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
+![SIMD SSE/AVX](https://img.shields.io/badge/SIMD%20SSE%2FAVX-Optimization-red?style=flat-square&logo=vectorworks&logoColor=white)
+
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
@@ -9,9 +14,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![x86-64 NASM Assembly](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
-![x86 x87 Assembly](https://img.shields.io/badge/x86%20x87-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
-![SIMD SSE/AVX](https://img.shields.io/badge/SIMD%20SSE%2FAVX-Optimization-red?style=flat-square&logo=vectorworks&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
