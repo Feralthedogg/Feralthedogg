@@ -57,6 +57,7 @@
 - [functional-go](https://github.com/Feralthedogg/go-functional)
 - [Allocates](https://github.com/Feralthedogg/Allocates)
 - [Novum](https://github.com/Feralthedogg/Novum)
+- [Goline](https://github.com/Feralthedogg/Goline)
 
 ## Contact
 [![](https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rw70578@gmail.com)
