@@ -4,7 +4,7 @@
 
 ### Low-Level & Optimization
 ![x86-64 NASM Assembly](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
-![x86-64 AT&T Assembly](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
+![x86-64 AT&T Assembly](https://img.shields.io/badge/x86--64%20AT&T-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
 ![x87 FPU Assembly](https://img.shields.io/badge/x87%20FPU-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
 ![SIMD SSE/AVX](https://img.shields.io/badge/SIMD%20SSE%2FAVX-Optimization-red?style=flat-square&logo=vectorworks&logoColor=white)
 
