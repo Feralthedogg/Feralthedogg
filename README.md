@@ -70,6 +70,8 @@
 - [Novum](https://github.com/Feralthedogg/Novum)  
 - [Goline](https://github.com/Feralthedogg/Goline)  
 - [CVE-2025-24132 Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner)
+- [Radar Tracking Framework](https://github.com/Feralthedogg/Simple-Radar-Framework)
+
 ---
 
 ## Contact  
