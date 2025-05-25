@@ -54,10 +54,7 @@
 ## Projects  
 - [SQL Injection Patterns](https://github.com/Feralthedogg/SQL-Injection-Patterns)  
 - [Korean Detector](https://github.com/Feralthedogg/Korean-Detector)  
-- [TreeSubWrapper](https://github.com/Feralthedogg/TreeSubWrapper/)  
 - [Prometheus-GIN](https://github.com/Feralthedogg/Prometheus-GIN)  
-- [EasyProtoBase64](https://github.com/Feralthedogg/EasyProtoBase64)  
-- [isThisGay](https://github.com/Feralthedogg/isThisGay-)  
 - [isThisGay-ML](https://github.com/Feralthedogg/IsThisGay-ML)  
 - [DynamiDB](https://github.com/Feralthedogg/DynamiDB)  
 - [Korcen-API](https://github.com/fluffy-melli/korcen-api)  
