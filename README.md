@@ -69,6 +69,7 @@
 - [CVE-2025-24132 Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner)
 - [Simple-Radar-Framework](https://github.com/Feralthedogg/Simple-Radar-Framework)
 - [subtype_rs](https://github.com/Feralthedogg/subtype_rs)
+- [Enigma M4](https://github.com/Feralthedogg/Enigma-M4)
 
 ---
 
