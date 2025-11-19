@@ -3,11 +3,11 @@
 ---
 
 ## Low-Level & Optimization  
-![x86-64 NASM Assembly](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)  
-![x86-64 AT&T Assembly](https://img.shields.io/badge/x86--64%20AT&T-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)
-![AVR Assembly](https://img.shields.io/badge/x86--64%20AT&T-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white) 
-![x87 FPU](https://img.shields.io/badge/x87%20FPU-Assembly-blue?style=flat-square&logo=assemblyscript&logoColor=white)  
-![SIMD SSE/AVX](https://img.shields.io/badge/SIMD%20SSE%2FAVX-Assembly-blue?style=flat-square&logo=vectorworks&logoColor=white)
+![x86-64 NASM](https://img.shields.io/badge/x86--64%20NASM-Assembly-blue?style=flat-square)
+![x86-64 AT&T](https://img.shields.io/badge/x86--64%20AT&T-Assembly-blue?style=flat-square)
+![AVR Assembly](https://img.shields.io/badge/AVR-Assembly-blue?style=flat-square)
+![x87 FPU](https://img.shields.io/badge/x87-FPU-blue?style=flat-square)
+![SSE/AVX SIMD](https://img.shields.io/badge/SIMD-SSE%2FAVX-blue?style=flat-square)
 
 ---
 
