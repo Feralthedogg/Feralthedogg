@@ -71,6 +71,7 @@
 - [Simple-Radar-Framework](https://github.com/Feralthedogg/Simple-Radar-Framework)
 - [subtype_rs](https://github.com/Feralthedogg/subtype_rs)
 - [Enigma M4](https://github.com/Feralthedogg/Enigma-M4)
+- [CHIP8-VM](https://github.com/Feralthedogg/CHIP8-VM)
 
 ---
 
