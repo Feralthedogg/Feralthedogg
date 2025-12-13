@@ -53,25 +53,14 @@
 ---
 
 ## Projects  
-- [SQL Injection Patterns](https://github.com/Feralthedogg/SQL-Injection-Patterns)  
-- [Korean Detector](https://github.com/Feralthedogg/Korean-Detector)  
-- [Prometheus-GIN](https://github.com/Feralthedogg/Prometheus-GIN)  
-- [isThisGay-ML](https://github.com/Feralthedogg/IsThisGay-ML)  
-- [DynamiDB](https://github.com/Feralthedogg/DynamiDB)  
-- [Korcen-API](https://github.com/fluffy-melli/korcen-api)  
-- [PatternMatch](https://github.com/Feralthedogg/PatternMatch-go)  
-- [Murmur3-C](https://github.com/Feralthedogg/murmur3)  
-- [hurricane](https://github.com/Feralthedogg/hurricane)  
 - [httpcat](https://github.com/Feralthedogg/httpcat)  
-- [functional-go](https://github.com/Feralthedogg/go-functional)  
-- [Allocates](https://github.com/Feralthedogg/Allocates)  
-- [Novum](https://github.com/Feralthedogg/Novum)  
 - [Goline](https://github.com/Feralthedogg/Goline)  
 - [CVE-2025-24132 Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner)
 - [Simple-Radar-Framework](https://github.com/Feralthedogg/Simple-Radar-Framework)
 - [subtype_rs](https://github.com/Feralthedogg/subtype_rs)
 - [Enigma M4](https://github.com/Feralthedogg/Enigma-M4)
 - [CHIP8-VM](https://github.com/Feralthedogg/CHIP8-VM)
+- [AppleMusicRPC](https://github.com/Feralthedogg/AppleMusicRPC)
 
 ---
 
