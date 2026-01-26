@@ -61,6 +61,7 @@
 - [Enigma M4](https://github.com/Feralthedogg/Enigma-M4)
 - [CHIP8-VM](https://github.com/Feralthedogg/CHIP8-VM)
 - [AppleMusicRPC](https://github.com/Feralthedogg/AppleMusicRPC)
+- [LambdaCDM-Rust](https://github.com/Feralthedogg/LambdaCDM-Rust)
 
 ---
 
