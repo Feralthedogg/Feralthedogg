@@ -62,6 +62,7 @@
 - [CHIP8-VM](https://github.com/Feralthedogg/CHIP8-VM)
 - [AppleMusicRPC](https://github.com/Feralthedogg/AppleMusicRPC)
 - [LambdaCDM-Rust](https://github.com/Feralthedogg/LambdaCDM-Rust)
+- [StrataID](https://github.com/Feralthedogg/StrataID)
 
 ---
 
