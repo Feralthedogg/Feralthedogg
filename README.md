@@ -63,7 +63,7 @@
 - [AppleMusicRPC](https://github.com/Feralthedogg/AppleMusicRPC)
 - [LambdaCDM-Rust](https://github.com/Feralthedogg/LambdaCDM-Rust)
 - [StrataID](https://github.com/Feralthedogg/StrataID)
-
+- [RR](https://github.com/Feralthedogg/RR)
 ---
 
 ## Contact  
